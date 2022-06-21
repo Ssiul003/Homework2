@@ -1,3 +1,8 @@
+/* The program should run if there is a file "inputs.txt". Since I am using
+Netbeans I'm unsure if there is any difference when using terminal. However,
+as long as there is the files "inputs.txt" with the way I formatted like 
+01-09 1111 2.00 0 it should work. I didn't add any commas because I believe
+the it is also scanned.*/
 package su22hw2;
 
 import java.util.Scanner;
